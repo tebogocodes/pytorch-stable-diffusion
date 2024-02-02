@@ -1,5 +1,10 @@
 # pytorch-stable-diffusion
 PyTorch implementation of Stable Diffusion from scratch
+![image (4)](https://github.com/tebogocodes/pytorch-stable-diffusion/assets/151438641/17e503d8-959e-42b6-900d-80ee891cc5f6)
+![image (3)](https://github.com/tebogocodes/pytorch-stable-diffusion/assets/151438641/a2c096d3-6e11-4412-a230-fd015d2367f5)
+![image (2)](https://github.com/tebogocodes/pytorch-stable-diffusion/assets/151438641/2eb3f600-a072-4d6d-9723-6b2693200f52)
+![image (1)](https://github.com/tebogocodes/pytorch-stable-diffusion/assets/151438641/993bf160-3d28-46b3-a6a5-6fb71a3f59ec)
+
 
 ## Download weights and tokenizer files:
 
